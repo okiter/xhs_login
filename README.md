@@ -8,4 +8,4 @@
 <img src="小红书扫码登陆账号.png">
 
 # 联系我
-<img src="微信.png">
+<img src="微信.png" width="300">
